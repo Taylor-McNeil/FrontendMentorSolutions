@@ -22,9 +22,7 @@ We were challenged to replicate a QR code design.
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site](https://taylor-mcneil.github.io/FrontendMentorSolutions/qr-code-component-main/)
 
 ## My process
 - I stubbed all the html out and then applied styling to the html.

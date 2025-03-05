@@ -6,4 +6,4 @@ You have found my solutions to the frontend mentor projects. I always wanted to 
 These challenges can be found [here](https://www.frontendmentor.io)
 
 ## Challenges completed so far:
-- [QR Code Component]() 3/5/25
+- [QR Code Component](https://taylor-mcneil.github.io/FrontendMentorSolutions/qr-code-component-main/) 3/5/25
