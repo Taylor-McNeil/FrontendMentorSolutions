@@ -1,0 +1,101 @@
+/*Style Guide*/
+
+.font-bold{
+    font-weight: 800;
+    font-size:24px
+}
+.preset1{
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-weight: 800;
+}
+
+.preset2{
+    font-size:16px;
+    line-height: 150%;
+    letter-spacing: 0px;
+
+}
+.preset3{
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    
+}
+.preset3-bold{
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-weight: 800;
+
+}
+.grey-500{color: hsl(0, 0%, 42%);}
+
+.grey-950{color:hsl(0, 0%, 7%);}
+
+
+body{
+    background-color: #F5D04E;
+    display: flex;
+    font-family: "Figtree";
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    height: 100vh;
+    font-weight: 500;
+    
+}
+/*Main container */
+.card-container{
+    display: flex;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    max-width:340px;
+    height:auto;
+    margin: 16px;
+    padding:24px ;
+    border:solid black .5px;
+    color:hsl(0, 0%, 7%);
+  
+}
+
+.card-content{
+  padding:24px 0 16px;
+}
+
+/* Image inside the card content */
+.card-img>img{
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+    
+
+.yellow-label{
+    background-color: #F5D04E;
+    border: solid #F5D04E ;
+    border-radius: 4px;
+    padding: 4px 12px;
+}
+
+.card-title:hover{
+    color:#F5D04E
+}
+
+.author{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 12px;
+}
+.author>img{
+    width: 32px;
+    height: 32px;
+   
+  
+}
