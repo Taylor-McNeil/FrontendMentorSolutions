@@ -1,7 +1,5 @@
-# Frontend Mentor - Blog Solution
-# Frontend Mentor - Blog Preview Solution
-
-This is a solution to the [Blog Preview Card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) on Frontend Mentor. 
+# Frontend Mentor - Blog Preview Card Solution
+This is a solution to the [Blog Preview Card ](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) challenge on Frontend Mentor. 
 
 ## Table of contents
 
