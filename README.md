@@ -8,3 +8,4 @@ These challenges can be found [here](https://www.frontendmentor.io/challenges).
 ## Challenges completed so far:
 - [QR Code Component](https://taylor-mcneil.github.io/FrontendMentorSolutions/qr-code-component-main/) 3/5/25
 - [Blog Preview Card](https://taylor-mcneil.github.io/FrontendMentorSolutions/blog-preview-card-main/) 3/6/25
+- [Social Links Profile](https://taylor-mcneil.github.io/FrontendMentorSolutions/social-links-profile-main/) 3/7/25
