@@ -20,7 +20,7 @@ We were challenged to replicate a product card component. This was an interestin
 |![](./design/mobile-design.jpg)  | ![](./design/mobile-solution.png)|
 
 ### Links
-- [Live Site](https://taylor-mcneil.github.io/FrontendMentorSolutions/recipe-page-main/produt-preview-card-component-main/)
+- [Live Site](https://taylor-mcneil.github.io/FrontendMentorSolutions/product-preview-card-component-main/)
 
 ### Tools
 
